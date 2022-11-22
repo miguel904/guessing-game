@@ -1,0 +1,28 @@
+body{
+    background-color: darkblue;
+}
+#container{
+    background-color: chocolate;
+    border: 5px gold;
+    height: 275px; 
+    width:750px ;
+    margin:auto ;
+    text-align: center;
+}
+
+p{
+    color:firebrick;
+    font-size: larger;
+}
+#input{
+    width: 100px; 
+margin: 25px;
+
+}
+
+
+#btn{
+margin: 25 px auto auto 5px;
+
+
+}
